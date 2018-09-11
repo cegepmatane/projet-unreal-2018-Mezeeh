@@ -772,3 +772,60 @@ LogInit: Object subsystem initialized
 [2018.09.11-17.07.39:035][975]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
 [2018.09.11-17.07.39:092][975]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2018.09.11-17.07.39:203][976]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2018.09.11-17.07.47:121][ 93]LogHttp: Warning: 00000155C0B387C0: HTTP request timed out after 180.00 seconds URL=https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8EE665D7-4892-EA34-7449-20ABE59EF811%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.1-4233996%2B%2B%2BUE4%2BRelease-4.20&UserID=7bd2a7374fd8879280b53bb29727da07%7C4b1c9b0e374946a695c412438be9a33d%7C75072089-1844-437e-930c-f098d0e7b5e8&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2018.09.11-17.07.47:121][ 93]LogHttp: Warning: 00000155C0B387C0: request failed, libcurl error: 0 (No error)
+[2018.09.11-17.07.47:121][ 93]LogHttp: Warning: 00000155C0B387C0: libcurl info message cache 0 (  Trying 35.153.94.250...)
+[2018.09.11-17.07.47:121][ 93]LogHttp: Warning: 00000155C0B387C0: libcurl info message cache 1 (TCP_NODELAY set)
+[2018.09.11-17.07.47:121][ 93]LogHttp: Warning: 00000155C0B387C0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (35.153.94.250) port 443 (#12))
+[2018.09.11-17.07.47:121][ 93]LogHttp: Warning: 00000155C0B387C0: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2018.09.11-17.07.47:121][ 93]LogHttp: Warning: 00000155C0B387C0: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.09.11-17.07.47:121][ 93]LogHttp: Warning: 00000155C0B387C0: libcurl info message cache 5 (TLSv1.2 (OUT), TLS header, Certificate Status (22):)
+[2018.09.11-17.07.47:121][ 93]LogHttp: Warning: 00000155C0B387C0: libcurl info message cache 6 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.09.11-17.07.47:121][ 93]LogHttp: Warning: 00000155C0B387C0: libcurl info message cache 7 (Closing connection 12)
+[2018.09.11-17.07.48:103][ 95]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.11-17.07.50:972][198]LogSlate: Window 'BoutonPressoir_Blueprint*' being destroyed
+[2018.09.11-17.07.51:005][198]LogSlate: Window 'BoutonPressoir_Blueprint*' being destroyed
+[2018.09.11-17.07.52:207][225]LogSavePackage: Moving '../../../../../../Users/1643216/Desktop/Programmtion de mondes virtuels/projet-unreal-2018-Mezeeh/OSPlatesformeur/Saved/ThirdPersonExampleMap4FF36B36456367C1E2E894B2C378BE16.tmp' to '../../../../../../Users/1643216/Desktop/Programmtion de mondes virtuels/projet-unreal-2018-Mezeeh/OSPlatesformeur/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.09.11-17.09.46:491][587]LogHttp: Warning: 00000155C16B4900: HTTP request timed out after 180.00 seconds URL=https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8EE665D7-4892-EA34-7449-20ABE59EF811%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.1-4233996%2B%2B%2BUE4%2BRelease-4.20&UserID=7bd2a7374fd8879280b53bb29727da07%7C4b1c9b0e374946a695c412438be9a33d%7C75072089-1844-437e-930c-f098d0e7b5e8&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2018.09.11-17.09.46:491][587]LogHttp: Warning: 00000155C16B4900: request failed, libcurl error: 0 (No error)
+[2018.09.11-17.09.46:491][587]LogHttp: Warning: 00000155C16B4900: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x155e169bdc0 [serially])
+[2018.09.11-17.09.46:491][587]LogHttp: Warning: 00000155C16B4900: libcurl info message cache 1 (Hostname in DNS cache was stale, zapped)
+[2018.09.11-17.09.46:491][587]LogHttp: Warning: 00000155C16B4900: libcurl info message cache 2 (  Trying 34.202.80.111...)
+[2018.09.11-17.09.46:491][587]LogHttp: Warning: 00000155C16B4900: libcurl info message cache 3 (TCP_NODELAY set)
+[2018.09.11-17.09.46:491][587]LogHttp: Warning: 00000155C16B4900: libcurl info message cache 4 (Connected to datarouter.ol.epicgames.com (34.202.80.111) port 443 (#13))
+[2018.09.11-17.09.46:491][587]LogHttp: Warning: 00000155C16B4900: libcurl info message cache 5 (ALPN, offering http/1.1)
+[2018.09.11-17.09.46:491][587]LogHttp: Warning: 00000155C16B4900: libcurl info message cache 6 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.09.11-17.09.46:491][587]LogHttp: Warning: 00000155C16B4900: libcurl info message cache 7 (TLSv1.2 (OUT), TLS header, Certificate Status (22):)
+[2018.09.11-17.09.46:491][587]LogHttp: Warning: 00000155C16B4900: libcurl info message cache 8 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.09.11-17.09.46:491][587]LogHttp: Warning: 00000155C16B4900: libcurl info message cache 9 (Closing connection 13)
+[2018.09.11-17.12.18:784][192]LogEditorViewport: Clicking on Actor (LMB): BoutonPressoir_Blueprint_C (BoutonPressoir)
+[2018.09.11-17.12.24:916][524]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-17.12.44:644][135]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Assets/BoutonPressoir_Blueprint.BoutonPressoir_Blueprint
+[2018.09.11-17.13.16:959][490]BlueprintLog: New page: Compile BoutonPressoir_Blueprint
+[2018.09.11-17.13.32:307][160]LogSlate: Window 'BoutonPressoir_Blueprint*' being destroyed
+[2018.09.11-17.13.32:333][160]LogSlate: Window 'BoutonPressoir_Blueprint*' being destroyed
+[2018.09.11-17.13.33:339][204]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.11-17.13.33:380][204]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.11-17.13.33:381][204]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.11-17.13.33:381][204]PIE: New page: PIE session: ThirdPersonExampleMap (2018-09-11 09:13:33)
+[2018.09.11-17.13.33:381][204]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.09.11-17.13.33:401][204]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020368s)
+[2018.09.11-17.13.33:403][204]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.09.11-17.13.33:404][204]LogPlayLevel: PIE: World Init took: (0.002404s)
+[2018.09.11-17.13.33:404][204]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.023139s)
+[2018.09.11-17.13.33:479][204]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.11-17.13.33:493][204]LogInit: FAudioDevice initialized.
+[2018.09.11-17.13.33:526][204]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.11-17.13.33:530][204]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.09.11-13.13.33
+[2018.09.11-17.13.33:531][204]LogWorld: Bringing up level for play took: 0.003795
+[2018.09.11-17.13.33:545][204]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,845
+[2018.09.11-17.13.33:545][204]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.11-17.13.40:131][623]LogBlueprintUserMessages: [RayonDeMiel] Rayon de miel ramassé !
+[2018.09.11-17.13.42:384][770]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.11-17.13.42:384][770]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-17.13.42:429][770]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.11-17.13.42:430][770]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.11-17.13.42:497][770]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-17.13.42:601][771]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2018.09.11-17.13.47:213][910]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.11-17.13.48:595][937]LogSavePackage: Moving '../../../../../../Users/1643216/Desktop/Programmtion de mondes virtuels/projet-unreal-2018-Mezeeh/OSPlatesformeur/Saved/ThirdPersonExampleMapE15C561544FB2758AD5398B50991A37D.tmp' to '../../../../../../Users/1643216/Desktop/Programmtion de mondes virtuels/projet-unreal-2018-Mezeeh/OSPlatesformeur/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
